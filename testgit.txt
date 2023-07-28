@@ -12,3 +12,5 @@ new
 new main
 
 liang 23444
+
+main 9999
